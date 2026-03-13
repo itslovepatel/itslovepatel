@@ -137,7 +137,15 @@ me.say_hi()
 
 **AI/ML Engineering Intern @ NovusArc** *(Jan 2026 – present)*
 
-Working on an HR-tech platform. Built the resume upload pipeline (handles 100+ concurrent uploads), designed the ATS scoring system with filtering by role/domain/geography, and set up the database schema for the analytics dashboards. Also automated a bunch of manual HR workflows. Day-to-day involves Python, FastAPI, PostgreSQL, and a lot of testing.
+```
+lovepatel@novusarc:~/hr-tech$ cat achievements.log
+
+▸ Built resume upload pipeline — handles 100+ concurrent uploads
+▸ Designed ATS scoring system — filtering by role, domain, geography
+▸ Set up database schema for analytics dashboards
+▸ Automated manual HR workflows — less busywork, more building
+▸ Day-to-day: Python, FastAPI, PostgreSQL, and a lot of testing
+```
 
 ---
 
