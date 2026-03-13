@@ -13,6 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-lovex--69-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lovex-69)
 [![Email](https://img.shields.io/badge/Email-lovepatelforwork@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovepatelforwork@gmail.com)
 [![Credly](https://img.shields.io/badge/Certifications-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com)
+<img src="https://komarev.com/ghpvc/?username=itslovepatel&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
@@ -120,7 +121,7 @@ Cross-platform mobile app with Redis caching, SQLite history storage, and Docker
 - 🏗️ Built enterprise HR-Tech platform supporting **100+ concurrent resume uploads** with intelligent multi-dimensional parsing
 - 📊 Designed ATS scoring system with advanced filtering by role, domain, age, and geography — improving HR efficiency by **60%**
 - ⚙️ Automated workflow engine reducing manual HR operations by **40%**
-- ��️ Designed scalable DB schema optimizing query performance for large-scale analytics dashboards
+- 🗄️ Designed scalable DB schema optimizing query performance for large-scale analytics dashboards
 - 🔄 Practiced CI/CD, unit testing, and Agile in a collaborative team environment
 
 ---
@@ -149,6 +150,18 @@ Cross-platform mobile app with Redis caching, SQLite history storage, and Docker
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=itslovepatel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itslovepatel&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itslovepatel&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
