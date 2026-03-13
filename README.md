@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Love%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Builder&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Love%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=35&descAlignY=55&descSize=18&descColor=a78bfa" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+ship+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+Cloud+Architecture;Python+%2B+AWS+%2B+Full-Stack+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=Building+AI+systems+that+actually+ship+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+Cloud+Architecture;Python+%2B+AWS+%2B+Full-Stack+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,7 +12,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-itslovepatel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itslovepatel)
 [![GitHub](https://img.shields.io/badge/GitHub-lovex--69-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lovex-69)
 [![Email](https://img.shields.io/badge/Email-lovepatelforwork@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovepatelforwork@gmail.com)
-[![Credly](https://img.shields.io/badge/Certifications-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com)
 <img src="https://komarev.com/ghpvc/?username=itslovepatel&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
@@ -29,11 +28,11 @@ class LovePatel:
         self.location   = "Vadodara, Gujarat, India 🇮🇳"
         self.languages  = ["Python", "JavaScript", "TypeScript", "C/C++", "SQL"]
         self.interests  = ["Computer Vision", "NLP", "Cloud Architecture", "Audio ML"]
-        self.currently  = "Building enterprise HR-Tech AI at NovusArc"
-        self.goal       = "Create software that makes a real-world impact"
+        self.currently  = "Building resume parsing & ATS scoring tools at NovusArc"
+        self.fun_fact   = "I break things, fix them, and ship"
 
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+        print("Thanks for visiting! Let's build something cool 🚀")
 
 me = LovePatel()
 me.say_hi()
@@ -43,6 +42,10 @@ me.say_hi()
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,6 +54,9 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 **Frameworks & Libraries**
 
@@ -62,6 +68,9 @@ me.say_hi()
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
+</td>
+<td valign="top" width="33%">
+
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -69,76 +78,90 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+</td>
+<td valign="top" width="33%">
+
 **AI / ML**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Librosa](https://img.shields.io/badge/Librosa-Audio_ML-blueviolet?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-Text_Processing-green?style=flat-square)
 
----
+</td>
+<td valign="top" width="33%">
 
-## 🚀 Featured Projects
+**Tools & Platforms**
 
-### 🎯 [ATS Resume Analyzer](https://github.com/itslovepatel)
-> *Next.js · Python · FastAPI · PyMuPDF · AI/ML*
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-Full-stack AI platform that analyzes resumes across **25+ industries** with ATS compatibility scoring (0–100). Features a domain detection engine for Software, Data Science, Finance, and Healthcare sectors — with privacy-first, in-memory processing and automated PDF report generation.
-
----
-
-### 🖐️ [AI Hand-Tracked 3D Object](https://github.com/itslovepatel)
-> *Computer Vision · Three.js · MediaPipe · WebGL*
-
-Real-time hand gesture control system achieving **60 FPS in-browser**. Uses MediaPipe webcam tracking with Three.js/WebGL 3D rendering, LERP smoothing algorithms, and mathematical interpolation for stable motion mapping.
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎵 [EmotiSound – Music Emotion DNA Analyzer](https://github.com/itslovepatel)
-> *Python · Flask · ML · Librosa · Docker*
+## Projects
 
-AI music analysis platform extracting acoustic DNA (tempo, energy, valence) using **ensemble ML models** (Random Forest, Gradient Boosting, SVM). Includes interactive radar chart dashboards and Dockerized deployment.
+**[ATS Resume Analyzer](https://github.com/itslovepatel/Resume-ATS)** — Next.js + FastAPI app that scores resumes against 25+ industry profiles. Parses PDFs, detects the job domain, gives a 0-100 ATS score. Everything runs in-memory so no resume data gets stored. ⭐ 5
 
----
+**[Hand-Tracked 3D Helmet](https://github.com/itslovepatel/hand-tracked-3d-helmet)** — You wave your hand in front of your webcam and a 3D helmet moves with it. Built with MediaPipe + Three.js. Runs at 60fps in the browser. ⭐ 6
 
-### 📥 [LoveSave – Universal Media Downloader](https://github.com/itslovepatel)
-> *React Native · Node.js · Redis · Docker*
+**[EmotiSound](https://github.com/itslovepatel/emotisound-live)** — Feed it a song and it tells you the "emotional DNA" — tempo, energy, valence, etc. Uses Random Forest + Gradient Boosting + SVM under the hood. Has radar chart visualizations. Flask + Docker. ⭐ 3
 
-Cross-platform mobile app with Redis caching, SQLite history storage, and Docker Compose orchestration for scalable media processing via yt-dlp integration.
+**[LoveSave](https://github.com/itslovepatel/lovesave)** — Media downloader app (React Native + Node). Redis for caching, SQLite for history, yt-dlp for the actual downloading. Docker Compose for deployment.
 
----
+**[LovePaste](https://github.com/itslovepatel/lovepaste)** — Clipboard manager I built because I needed one that didn't suck. TypeScript.
 
-## 💼 Experience
+**[AgroLoop](https://github.com/itslovepatel/AgroLoop)** — Agricultural supply chain platform. TypeScript full-stack.
 
-**AI/ML Engineering Intern** — [NovusArc](https://github.com/itslovepatel) *(Jan 2026 – Present)*
-
-- 🏗️ Built enterprise HR-Tech platform supporting **100+ concurrent resume uploads** with intelligent multi-dimensional parsing
-- 📊 Designed ATS scoring system with advanced filtering by role, domain, age, and geography — improving HR efficiency by **60%**
-- ⚙️ Automated workflow engine reducing manual HR operations by **40%**
-- 🗄️ Designed scalable DB schema optimizing query performance for large-scale analytics dashboards
-- 🔄 Practiced CI/CD, unit testing, and Agile in a collaborative team environment
+[→ all repos](https://github.com/itslovepatel?tab=repositories)
 
 ---
 
-## 🏆 Certifications
+## Work
 
-| Certification | Issuer | Year |
+**AI/ML Engineering Intern @ NovusArc** *(Jan 2026 – present)*
+
+```
+lovepatel@novusarc:~/hr-tech$ cat achievements.log
+
+▸ Built resume upload pipeline — handles 100+ concurrent uploads
+▸ Designed ATS scoring system — filtering by role, domain, geography
+▸ Set up database schema for analytics dashboards
+▸ Automated manual HR workflows — less busywork, more building
+▸ Day-to-day: Python, FastAPI, PostgreSQL, and a lot of testing
+```
+
+---
+
+## Certifications
+
+| What | From | When |
 |---|---|---|
-| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services | 2024 |
-| 🐍 Software Programmer – Python (FSP) | NASSCOM / Govt. of India | 2024 |
-| 🤖 RPA Developer Foundation | NASSCOM FutureSkills Prime | 2025 |
-| 🐧 Linux System Administration | IIT Bombay – Spoken Tutorial | 2024 |
-| 🗃️ PostgreSQL RDBMS | IIT Bombay – Spoken Tutorial | 2024 |
+| AWS Cloud Practitioner | Amazon Web Services | 2024 |
+| Software Programmer – Python | NASSCOM / Govt. of India | 2024 |
+| RPA Developer Foundation | NASSCOM FutureSkills Prime | 2025 |
+| Linux System Administration | IIT Bombay (Spoken Tutorial) | 2024 |
+| PostgreSQL RDBMS | IIT Bombay (Spoken Tutorial) | 2024 |
 
 ---
 
-## 📊 GitHub Stats
+## Stats
 
 <div align="center">
 
@@ -165,20 +188,32 @@ Cross-platform mobile app with Redis caching, SQLite history storage, and Docker
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itslovepatel/itslovepatel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itslovepatel/itslovepatel/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/itslovepatel/itslovepatel/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
-## 🌐 Languages
+English · Hindi · Gujarati · some German
 
-🇬🇧 English — Professional &nbsp;|&nbsp; 🇮🇳 Hindi — Native &nbsp;|&nbsp; 🇮🇳 Gujarati — Native &nbsp;|&nbsp; 🇩🇪 German — Basic
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-*"The best way to predict the future is to build it."*
-
-⭐ **Star my repos if you find them useful!** ⭐
 
 </div>
