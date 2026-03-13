@@ -21,6 +21,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
+        # Pushes generated SVGs to the 'output' branch, referenced by README.md
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
