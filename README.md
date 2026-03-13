@@ -2,36 +2,116 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Love%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=35&descAlignY=55&descSize=18&descColor=a78bfa" />
 
-</div>
+<br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=Building+AI+systems+that+actually+ship+%F0%9F%9A%80;Computer+Vision+%7C+NLP+%7C+Cloud+Architecture;Python+%2B+AWS+%2B+Full-Stack+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lovepatel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepatel)
 [![GitHub](https://img.shields.io/badge/GitHub-itslovepatel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itslovepatel)
 [![GitHub](https://img.shields.io/badge/GitHub-lovex--69-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lovex-69)
 [![Email](https://img.shields.io/badge/Email-lovepatelforwork@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovepatelforwork@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=itslovepatel&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 
 </div>
 
 ---
 
-Hey! I'm Love — an AI/ML intern at **NovusArc** and a CS undergrad at Parul University (graduating 2027). I'm based in Vadodara, India.
+## 👨‍💻 About Me
 
-I mostly work with Python and TypeScript, building things around computer vision, NLP, and full-stack web apps. Right now I'm deep into HR-tech — building resume parsing and ATS scoring tools at work. Outside of that, I like messing around with audio ML, 3D graphics in the browser, and random side projects that scratch an itch.
+```python
+class LovePatel:
+    def __init__(self):
+        self.role       = "AI/ML Engineering Intern @ NovusArc"
+        self.education  = "B.S. Information Technology (Hons: AI & ML) — Parul University, 2027"
+        self.location   = "Vadodara, Gujarat, India 🇮🇳"
+        self.languages  = ["Python", "JavaScript", "TypeScript", "C/C++", "SQL"]
+        self.interests  = ["Computer Vision", "NLP", "Cloud Architecture", "Audio ML"]
+        self.currently  = "Building resume parsing & ATS scoring tools at NovusArc"
+        self.fun_fact   = "I break things, fix them, and ship"
 
-AWS certified, Linux nerd, Docker enthusiast. I break things, fix them, and ship.
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something cool 🚀")
+
+me = LovePatel()
+me.say_hi()
+```
 
 ---
 
-## Tech I use
+## 🛠️ Tech Stack
 
-**Languages** — Python (primary), JavaScript, TypeScript, C/C++, SQL, R
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Frameworks** — React, Next.js, FastAPI, Flask, Node.js, Three.js
+**Languages**
 
-**ML/Data** — scikit-learn, Pandas, NumPy, Librosa, MediaPipe
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Infra** — AWS, Docker, PostgreSQL, Redis, SQLite, Linux, Git
+</td>
+<td valign="top" width="33%">
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**AI / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-Audio_ML-blueviolet?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Text_Processing-green?style=flat-square)
+
+</td>
+<td valign="top" width="33%">
+
+**Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -90,6 +170,18 @@ Working on an HR-tech platform. Built the resume upload pipeline (handles 100+ c
 
 <div align="center">
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itslovepatel&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itslovepatel&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itslovepatel/itslovepatel/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itslovepatel/itslovepatel/output/github-snake.svg" />
@@ -101,6 +193,14 @@ Working on an HR-tech platform. Built the resume upload pipeline (handles 100+ c
 ---
 
 English · Hindi · Gujarati · some German
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+</div>
 
 ---
 
