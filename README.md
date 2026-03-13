@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lovepatel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovepatel)
 [![GitHub](https://img.shields.io/badge/GitHub-itslovepatel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itslovepatel)
+[![GitHub](https://img.shields.io/badge/GitHub-lovex--69-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lovex-69)
 [![Email](https://img.shields.io/badge/Email-lovepatelforwork@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovepatelforwork@gmail.com)
 [![Credly](https://img.shields.io/badge/Certifications-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com)
 
